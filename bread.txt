@@ -1,1 +1,1 @@
-A bead file
+A bead file\nBread Echo
