@@ -1,2 +1,0 @@
-A bead file\nBread Echo
-another bread line
