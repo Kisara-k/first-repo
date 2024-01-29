@@ -2,4 +2,6 @@
 
 remote edits to test pull request
 
-## MArkdown header
+## Markdown header
+
+new edit to test conflicts
